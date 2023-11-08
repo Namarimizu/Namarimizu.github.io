@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
-    <lastBuildDate>Wed, 08 Nov 2023 20:58:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 03:13:52 +0800</lastBuildDate>
     <atom:link href="https://Namarimizu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>網站更新日誌</title>
+      <link>https://Namarimizu.github.io/posts/site_update_log/</link>
+      <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
+      <guid>https://Namarimizu.github.io/posts/site_update_log/</guid>
+      <description>231109 從 Hexo 搬家到 Hugo。 琢磨了最基礎的 CSS 改法，並調用 Google Fonts API 的 Noto Serif SC 作爲缺省襯線體。 不知爲何調用本地字體（非本機字體）失敗。 網站在 Github Pages 上綫。 </description>
+    </item>
     <item>
       <title>Markdown 用法</title>
       <link>https://Namarimizu.github.io/posts/markdown/</link>
@@ -19,6 +26,13 @@
 引用 段落前添加 &amp;gt; 符號，多個段落引用時於段落間空白也添加 &amp;gt; 。
 塊引用可嵌套，添加 &amp;raquo; ，也可以部分地支持 Markdown。
 列表 有序列表用數字 1+英文句點起始，但之後可以不按數學順序排列。 Shift + Enter 可以， 另起一行但不進入下個列表。 無序列表可以前置 - , * , + 表示。 縮進一個或多個列表可創建嵌套列表。 在保留列表連續性的情況下插入另一種元素，將其縮進四個空格或一個製表符。 ^56c0d0 代碼塊通常縮進 4 空格或 1 製表符，放入列表時，請縮進兩倍。 有時 Shift + Tab 無法解決問題，可以用 Ctrl + 「[」 或 「]」 。 代碼 包裹在反引號「`」中。若其中已包含反引號，則代碼包裹在雙反引號中轉義。使用三個反引號（或縮進，但好像不行）來表示代碼塊，還可以在其後添加語言標識符（加在首個三重引號之後）。</description>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <link>https://Namarimizu.github.io/posts/hello_world/</link>
+      <pubDate>Wed, 08 Nov 2023 20:18:17 +0800</pubDate>
+      <guid>https://Namarimizu.github.io/posts/hello_world/</guid>
+      <description>如題</description>
     </item>
   </channel>
 </rss>

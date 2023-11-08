@@ -7,9 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
-    <lastBuildDate>Wed, 08 Nov 2023 20:58:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 03:13:52 +0800</lastBuildDate>
     
         <atom:link href="https://Namarimizu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>網站更新日誌</title>
+        <link>https://Namarimizu.github.io/posts/site_update_log/</link>
+        <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
+        
+        <guid>https://Namarimizu.github.io/posts/site_update_log/</guid>
+        <description>抱甕舘 https://Namarimizu.github.io/posts/site_update_log/ -&lt;h3 id=&#34;231109&#34;&gt;231109&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;從 Hexo 搬家到 Hugo。&lt;/li&gt;
+&lt;li&gt;琢磨了最基礎的 CSS 改法，並調用 Google Fonts API 的 Noto Serif SC 作爲缺省襯線體。
+&lt;ul&gt;
+&lt;li&gt;不知爲何調用&lt;strong&gt;本地字體&lt;/strong&gt;（非本機字體）失敗。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;網站在 Github Pages 上綫。&lt;/li&gt;
+&lt;/ul&gt;
+- https://Namarimizu.github.io/posts/site_update_log/ - 鉛水 2023</description>
+        </item>
     
     
     
@@ -159,6 +180,18 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 - https://Namarimizu.github.io/posts/markdown/ - 鉛水 2023</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Hello World!</title>
+        <link>https://Namarimizu.github.io/posts/hello_world/</link>
+        <pubDate>Wed, 08 Nov 2023 20:18:17 +0800</pubDate>
+        
+        <guid>https://Namarimizu.github.io/posts/hello_world/</guid>
+        <description>抱甕舘 https://Namarimizu.github.io/posts/hello_world/ -&lt;p&gt;如題&lt;/p&gt;
+- https://Namarimizu.github.io/posts/hello_world/ - 鉛水 2023</description>
         </item>
     
     
