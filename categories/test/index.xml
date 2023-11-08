@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on 抱甕舘</title>
+    <link>https://Namarimizu.github.io/categories/test/</link>
+    <description>Recent content in Test on 抱甕舘</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>鉛水 2023</copyright>
+    <lastBuildDate>Wed, 08 Nov 2023 20:58:45 +0800</lastBuildDate>
+    <atom:link href="https://Namarimizu.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown 用法</title>
+      <link>https://Namarimizu.github.io/posts/markdown/</link>
+      <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
+      <guid>https://Namarimizu.github.io/posts/markdown/</guid>
+      <description>標題和標籤 #的數量代表標題的級別，共6級。也可以在文本下一行加入任意數量的 ==（一級標題） 或 -- （二級標題）。 標題在#後加上空格 ，否則會變成標籤。 標籤內使用斜槓 / 可實現標籤嵌套。 #大標籤/二標籤 #大標籤/二標籤2
+強調 Bold: 前後加兩個星號或下劃線。 Italic: 前後加一個星號或下劃線。 Bold &amp;amp; Italic: 前後加三個星號或下劃線。 ==Highlight==: 前後加兩個等號。
+引用 段落前添加 &amp;gt; 符號，多個段落引用時於段落間空白也添加 &amp;gt; 。
+塊引用可嵌套，添加 &amp;raquo; ，也可以部分地支持 Markdown。
+列表 有序列表用數字 1+英文句點起始，但之後可以不按數學順序排列。 Shift + Enter 可以， 另起一行但不進入下個列表。 無序列表可以前置 - , * , + 表示。 縮進一個或多個列表可創建嵌套列表。 在保留列表連續性的情況下插入另一種元素，將其縮進四個空格或一個製表符。 ^56c0d0 代碼塊通常縮進 4 空格或 1 製表符，放入列表時，請縮進兩倍。 有時 Shift + Tab 無法解決問題，可以用 Ctrl + 「[」 或 「]」 。 代碼 包裹在反引號「`」中。若其中已包含反引號，則代碼包裹在雙反引號中轉義。使用三個反引號（或縮進，但好像不行）來表示代碼塊，還可以在其後添加語言標識符（加在首個三重引號之後）。</description>
+    </item>
+  </channel>
+</rss>

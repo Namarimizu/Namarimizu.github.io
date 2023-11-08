@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 抱甕舘</title>
+    <link>https://Namarimizu.github.io/tags/</link>
+    <description>Recent content in Tags on 抱甕舘</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>鉛水 2023</copyright>
+    <lastBuildDate>Wed, 08 Nov 2023 20:58:45 +0800</lastBuildDate>
+    <atom:link href="https://Namarimizu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://Namarimizu.github.io/tags/markdown/</link>
+      <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
+      <guid>https://Namarimizu.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

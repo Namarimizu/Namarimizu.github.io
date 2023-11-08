@@ -1,0 +1,168 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>抱甕舘</title>
+    <link>https://Namarimizu.github.io/</link>
+    <description>Recent content on 抱甕舘</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>鉛水 2023</copyright>
+    <lastBuildDate>Wed, 08 Nov 2023 20:58:45 +0800</lastBuildDate>
+    
+        <atom:link href="https://Namarimizu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Markdown 用法</title>
+        <link>https://Namarimizu.github.io/posts/markdown/</link>
+        <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
+        
+        <guid>https://Namarimizu.github.io/posts/markdown/</guid>
+        <description>抱甕舘 https://Namarimizu.github.io/posts/markdown/ -&lt;h2 id=&#34;標題和標籤&#34;&gt;標題和標籤&lt;/h2&gt;
+&lt;p&gt;#的數量代表標題的級別，共6級。也可以在文本下一行加入任意數量的 ==（一級標題） 或 -- （二級標題）。
+標題在#後加上空格 ，否則會變成標籤。
+標籤內使用斜槓 &lt;code&gt;/&lt;/code&gt; 可實現標籤嵌套。
+#大標籤/二標籤
+#大標籤/二標籤2&lt;/p&gt;
+&lt;h2 id=&#34;強調&#34;&gt;強調&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;: 前後加兩個星號或下劃線。
+&lt;em&gt;Italic&lt;/em&gt;: 前後加一個星號或下劃線。
+&lt;em&gt;&lt;strong&gt;Bold &amp;amp; Italic&lt;/strong&gt;&lt;/em&gt;: 前後加三個星號或下劃線。
+==Highlight==: 前後加兩個等號。&lt;/p&gt;
+&lt;h2 id=&#34;引用&#34;&gt;引用&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;段落前添加 &amp;gt; 符號，多個段落引用時於段落間空白也添加 &amp;gt; 。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;塊引用可嵌套，添加 &amp;raquo; ，也可以部分地支持 Markdown。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;列表&#34;&gt;列表&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;有序列表用數字 1+英文句點起始，但之後可以不按數學順序排列。&lt;/li&gt;
+&lt;li&gt;Shift + Enter 可以，
+另起一行但不進入下個列表。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;無序列表可以前置 - , * , + 表示。
+&lt;ol&gt;
+&lt;li&gt;縮進一個或多個列表可創建嵌套列表。&lt;/li&gt;
+&lt;li&gt;在保留列表連續性的情況下插入另一種元素，將其縮進四個空格或一個製表符。 ^56c0d0&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;代碼塊通常縮進 4 空格或 1 製表符，放入列表時，請縮進兩倍。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;有時 Shift + Tab 無法解決問題，可以用 Ctrl + 「[」 或 「]」 。&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;代碼&#34;&gt;代碼&lt;/h2&gt;
+&lt;p&gt;包裹在反引號「`」中。若其中已包含反引號，則代碼包裹在雙反引號中&lt;strong&gt;轉義&lt;/strong&gt;。使用三個反引號（或縮進，但好像不行）來表示代碼塊，還可以在其後添加語言標識符（加在首個三重引號之後）。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#008b45&#34;&gt;hello&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#658b00&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#39;hello world&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;分隔線&#34;&gt;分隔線&lt;/h2&gt;
+&lt;p&gt;三個星號、破折號或下劃線，效果都一樣：&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;超鏈接&#34;&gt;超鏈接&lt;/h2&gt;
+&lt;p&gt;[超鏈接顯示名] + （超鏈接地址“超鏈接 title”），title 指光標懸停時出現的文字。
+尖括號能使得 URL 和 Email 地址可點擊。
+&lt;a href=&#34;https://markdown.com.cn&#34;&gt;https://markdown.com.cn&lt;/a&gt;
+引用類型鏈接分兩部分：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;第一部分爲應顯示爲鏈接的文本，格式爲[文本][標籤]，標籤包含 case-insensitive 的字母、數字、空格或標點符號。如：
+&lt;a href=&#34;www.bilibili.com&#34; title=&#34;B 站&#34;&gt;嗶哩嗶哩&lt;/a&gt;
+此處標籤可重複使用，進而指向同一鏈接。&lt;/li&gt;
+&lt;li&gt;第二部分，[標籤]:&amp;lt;url&amp;gt;&#39;可選標題&amp;rsquo; ，其中 url 也可以不用尖括號，標題可以置入括號、單引號或雙引號。兩部分似乎不能並列。第二部分可放在文檔中任意位置，但要&lt;strong&gt;自成段落&lt;/strong&gt;（用空行隔開，不可接在正文後面）。
+&lt;strong&gt;網頁鏈接變量 的格式：&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;首先輸入
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;[顯示文本內容]&lt;/code&gt;&lt;/strong&gt; + &lt;strong&gt;&lt;code&gt;[變量名]&lt;/code&gt;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;變量名可以自己取，沒啥限制，任意字符都可以&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;在文檔任意一個區域，輸入：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;[變量名]&lt;/code&gt;&lt;/strong&gt; + &lt;strong&gt;:&lt;/strong&gt; + &lt;strong&gt;空格&lt;/strong&gt; + 鏈接地址 （這個&lt;strong&gt;空格&lt;/strong&gt; 不打也沒事)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;圖片&#34;&gt;圖片&lt;/h2&gt;
+&lt;p&gt;![替代文本](圖片鏈接 &amp;lsquo;可選圖片 title&amp;rsquo;)。如給其增加鏈接，則將上述內容置入方括號，並跟隨一個置入圓括號的鏈接。
+除了手寫 Markdown，插入圖片方法還有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;拖放圖片。&lt;/li&gt;
+&lt;li&gt;使用快捷鍵：在編輯模式下按下 &lt;code&gt;Ctrl + Shift + I&lt;/code&gt; 打開文件選擇對話框。&lt;/li&gt;
+&lt;li&gt;使用剪貼板。
+&lt;strong&gt;Obsidian&lt;/strong&gt; 的圖片設置大小是用 &lt;code&gt;|&lt;/code&gt; 分隔，後面寫寬度數值，單位默認是 px&lt;br&gt;
+設定好寬度，高度會自動&lt;strong&gt;等比例調整&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style=&#34;color: red;&#34;&gt;改文字顏色就很麻煩，需要用到 HTML 。&lt;/span&gt;
+&lt;font color=&#39;red&#39;&gt;或這樣&lt;/font&gt;
+&lt;font color=&#34;#76923c&#34;&gt;可以使用插件「Editing Toolbar」解決，但真的不方便。富文本不是 Markdown 的強項。&lt;/font&gt;&lt;/p&gt;
+&lt;h2 id=&#34;內鏈跳轉&#34;&gt;內鏈跳轉&lt;/h2&gt;
+&lt;p&gt;輸入 &lt;code&gt;[[&lt;/code&gt; 之後就知道了。比如 [[#^4b30cf|點我跳轉伊織萌]]
+此外：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#800080;font-weight:bold&#34;&gt;### 標題但是重名 blabla 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#800080;font-weight:bold&#34;&gt;### 標題但是重名 ^title2 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#800080;font-weight:bold&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;blabla2 --- [&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;跳轉測試&lt;/span&gt;](&lt;span style=&#34;color:#658b00&#34;&gt;#標題但是重名&lt;/span&gt;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;跳轉測試&lt;/span&gt;](&lt;span style=&#34;color:#658b00&#34;&gt;#^title2&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;markdown-擴展語法&#34;&gt;Markdown 擴展語法&lt;/h1&gt;
+&lt;h2 id=&#34;表格&#34;&gt;表格&lt;/h2&gt;
+&lt;p&gt;使用 pipe (&amp;rsquo; | &amp;lsquo;) 創建表格，使用三個或更多連字符（&amp;rsquo; _&amp;rsquo;）創建 title 。
+通過在標題行的連字符左側、右側或兩端添加冒號，可以將該列文本對齊到左右側或居中。
+部分格式可以應用於表格中。表格同樣需要獨立的一段。
+表格中的換行可以使用 HTML 標籤 &amp;lt;br&amp;gt;。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;標題一&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;標題二&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;一&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;腳註&#34;&gt;腳註&lt;/h2&gt;
+&lt;p&gt;使用 [^標識符] 這樣的格式創造腳註參考，並在其他地方使用 [^標識符]: 文本 來添加腳註。
+標識符無論如何編寫，腳註在輸出中都按順序編號；腳註無論位於何處，輸出中都會位於文檔末尾。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+縮進可以把不同段落添加進同一條腳註。&lt;/p&gt;
+&lt;h2 id=&#34;標題編號&#34;&gt;標題編號&lt;/h2&gt;
+&lt;p&gt;使用 Markdown 的 HTML 注釋語法 &lt;code&gt;&amp;lt;!-- --&amp;gt;&lt;/code&gt;，在標題前添加一個自定義 ID。例如：&lt;code&gt;&amp;lt;!-- custom-id --&amp;gt;&lt;/code&gt;。
+你可以使用比如雙重方括號鏈接語法來引用具有自定義 ID 的標題：&lt;/p&gt;
+&lt;h2 id=&#34;刪除線和下劃線&#34;&gt;刪除線和下劃線&lt;/h2&gt;
+&lt;p&gt;刪除線使用&lt;del&gt;波浪號&lt;/del&gt;，下劃線使用 html 的&lt;u&gt;&amp;lt;u&amp;gt;&amp;lt;/u&amp;gt;&lt;/u&gt;&lt;/p&gt;
+&lt;h2 id=&#34;任務列表&#34;&gt;任務列表&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;-&lt;/code&gt; + &lt;code&gt;Space&lt;/code&gt; + &lt;code&gt;[]&lt;/code&gt; + &lt;code&gt;列表內容&lt;/code&gt; ，方括號裏有空格，在方括號內輸入任意字符會打勾，如果輸入 x 會額外添加刪除線，但是會把方括號和內容之間的空格也打上刪除線，需要在末尾補個空格。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 內容&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 內容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;其它&#34;&gt;其它&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;mermaid&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;![[example.png|200]] ^4b30cf&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;像這樣&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+- https://Namarimizu.github.io/posts/markdown/ - 鉛水 2023</description>
+        </item>
+    
+    
+    
+    
+  </channel>
+</rss> 
