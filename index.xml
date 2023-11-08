@@ -19,7 +19,38 @@
         <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
         
         <guid>https://Namarimizu.github.io/posts/site_update_log/</guid>
-        <description>抱甕舘 https://Namarimizu.github.io/posts/site_update_log/ -&lt;h3 id=&#34;231109&#34;&gt;231109&lt;/h3&gt;
+        <description>抱甕舘 https://Namarimizu.github.io/posts/site_update_log/ -&lt;h3 id=&#34;to-do-list&#34;&gt;To do list&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用上本地字體。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 修復夜間模式下 quote block 背景顏色仍是藍色的問題。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 試插入全局音樂播放器。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 試引入 reimu 主題的友鏈模塊。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 試引入 disqus 評論系統。（這整句都是 Copilot 說的……）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 試引入 Google Analytics。（這也是。）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;由此可見，Github Copilot 實在是太強了，我都不知道該說什麼了。
+&lt;img src=&#34;img.png&#34; alt=&#34;img.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上面這句，當然，也是它補充的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;231109&#34;&gt;231109&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;從 Hexo 搬家到 Hugo。&lt;/li&gt;
 &lt;li&gt;琢磨了最基礎的 CSS 改法，並調用 Google Fonts API 的 Noto Serif SC 作爲缺省襯線體。

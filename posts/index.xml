@@ -14,7 +14,15 @@
       <link>https://Namarimizu.github.io/posts/site_update_log/</link>
       <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
       <guid>https://Namarimizu.github.io/posts/site_update_log/</guid>
-      <description>231109 從 Hexo 搬家到 Hugo。 琢磨了最基礎的 CSS 改法，並調用 Google Fonts API 的 Noto Serif SC 作爲缺省襯線體。 不知爲何調用本地字體（非本機字體）失敗。 網站在 Github Pages 上綫。 </description>
+      <description>To do list 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……）
+用上本地字體。
+修復夜間模式下 quote block 背景顏色仍是藍色的問題。
+試插入全局音樂播放器。
+試引入 reimu 主題的友鏈模塊。
+試引入 disqus 評論系統。（這整句都是 Copilot 說的……）
+試引入 Google Analytics。（這也是。）
+由此可見，Github Copilot 實在是太強了，我都不知道該說什麼了。 上面這句，當然，也是它補充的。
+231109 從 Hexo 搬家到 Hugo。 琢磨了最基礎的 CSS 改法，並調用 Google Fonts API 的 Noto Serif SC 作爲缺省襯線體。 不知爲何調用本地字體（非本機字體）失敗。 網站在 Github Pages 上綫。 </description>
     </item>
     <item>
       <title>Markdown 用法</title>
