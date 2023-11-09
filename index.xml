@@ -103,6 +103,9 @@ Of time past and time future.&lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 搞一些花哨的效果。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 配置圖牀，使用 jsDelivr &amp;amp; PicGo。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;由此可見，Github Copilot 實在是太強了，我都不知道該說什麼了。
 &lt;img src=&#34;img.png&#34; alt=&#34;img.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
