@@ -25,7 +25,7 @@
 &lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用上本地字體。&lt;/p&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用上本地字體。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 修復夜間模式下 quote block 背景顏色仍是藍色的問題。&lt;/p&gt;
@@ -51,6 +51,25 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;231109&#34;&gt;231109&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;套用了本地字體&lt;code&gt;H-宮書&lt;/code&gt;（網站標題）、&lt;code&gt;霞鶩文楷&lt;/code&gt;（中文正文無襯線）、&lt;code&gt;Gill Sans MT&lt;/code&gt;（西文正文無襯線）。&lt;/li&gt;
+&lt;li&gt;壓縮了字體：
+&lt;ul&gt;
+&lt;li&gt;使用 &lt;a href=&#34;https://cloudconvert.com/ttf-to-woff2&#34;&gt;Cloudconvert&lt;/a&gt; 將TTF格式字體轉換爲woff2格式。&lt;/li&gt;
+&lt;li&gt;使用 &lt;a href=&#34;https://fontsmaller.github.io/&#34;&gt;FontSmaller&lt;/a&gt; 將字體文件子集化，比如大標題的字體只「抱甕舘」三個字就夠用了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;😵 標題字體在 PC 端仍未生效：
+&lt;blockquote&gt;
+&lt;p&gt;⚠️Failed to decode downloaded font: &lt;a href=&#34;http://blog.m7atk2700.top/scss/static/GungSeoex.woff2&#34;&gt;http://blog.m7atk2700.top/scss/static/GungSeoex.woff2&lt;/a&gt;&lt;br&gt;
+⚠️OTS parsing error: Unable to instantiate font face from font data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;可能是語言設置的緣故？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;231108&#34;&gt;231108&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;從 Hexo 搬家到 Hugo。&lt;/li&gt;
 &lt;li&gt;琢磨了最基礎的 CSS 改法，並調用 Google Fonts API 的 Noto Serif SC 作爲缺省襯線體。
