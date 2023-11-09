@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
-    <lastBuildDate>Thu, 09 Nov 2023 03:13:52 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 22:49:40 +0800</lastBuildDate>
     <atom:link href="https://Namarimizu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Font Test Page</title>
+      <link>https://Namarimizu.github.io/posts/font_test/</link>
+      <pubDate>Thu, 09 Nov 2023 22:49:40 +0800</pubDate>
+      <guid>https://Namarimizu.github.io/posts/font_test/</guid>
+      <description>莊子·外篇·駢拇 駢拇枝指，出乎性哉！而侈於德。附贅縣疣，出乎形哉！而侈於性。多方乎仁義而用之者，列於五藏哉！而非道德之正也。是故駢於足者，連</description>
+    </item>
     <item>
       <title>網站更新日誌</title>
       <link>https://Namarimizu.github.io/posts/site_update_log/</link>
