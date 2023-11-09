@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 抱甕舘</title>
-    <link>https://Namarimizu.github.io/posts/</link>
+    <link>https://beiruri-tears.me/posts/</link>
     <description>Recent content in Posts on 抱甕舘</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
     <lastBuildDate>Thu, 09 Nov 2023 22:49:40 +0800</lastBuildDate>
-    <atom:link href="https://Namarimizu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beiruri-tears.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Font Test Page</title>
-      <link>https://Namarimizu.github.io/posts/font_test/</link>
+      <link>https://beiruri-tears.me/posts/font_test/</link>
       <pubDate>Thu, 09 Nov 2023 22:49:40 +0800</pubDate>
-      <guid>https://Namarimizu.github.io/posts/font_test/</guid>
+      <guid>https://beiruri-tears.me/posts/font_test/</guid>
       <description>莊子·外篇·駢拇 駢拇枝指，出乎性哉！而侈於德。附贅縣疣，出乎形哉！而侈於性。多方乎仁義而用之者，列於五藏哉！而非道德之正也。是故駢於足者，連</description>
     </item>
     <item>
       <title>網站更新日誌</title>
-      <link>https://Namarimizu.github.io/posts/site_update_log/</link>
+      <link>https://beiruri-tears.me/posts/site_update_log/</link>
       <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
-      <guid>https://Namarimizu.github.io/posts/site_update_log/</guid>
+      <guid>https://beiruri-tears.me/posts/site_update_log/</guid>
       <description>To do list 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……） 用上本地字體。 修復夜間模式下 quote block 背景顏色仍是藍色的問題。 試插入全局音樂播放器。</description>
     </item>
     <item>
       <title>Markdown 用法</title>
-      <link>https://Namarimizu.github.io/posts/markdown/</link>
+      <link>https://beiruri-tears.me/posts/markdown/</link>
       <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
-      <guid>https://Namarimizu.github.io/posts/markdown/</guid>
+      <guid>https://beiruri-tears.me/posts/markdown/</guid>
       <description>標題和標籤 #的數量代表標題的級別，共6級。也可以在文本下一行加入任意數量的 ==（一級標題） 或 -- （二級標題）。 標題在#後加上空格 ，否則會變成標籤。 標籤內使用斜槓 / 可實現標籤嵌套。 #大標籤/二標籤 #大標籤/二標籤2
 強調 Bold: 前後加兩個星號或下劃線。 Italic: 前後加一個星號或下劃線。 Bold &amp;amp; Italic: 前後加三個星號或下劃線。 ==Highlight==: 前後加兩個等號。
 引用 段落前添加 &amp;gt; 符號，多個段落引用時於段落間空白也添加 &amp;gt; 。
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>Hello World!</title>
-      <link>https://Namarimizu.github.io/posts/hello_world/</link>
+      <link>https://beiruri-tears.me/posts/hello_world/</link>
       <pubDate>Wed, 08 Nov 2023 20:18:17 +0800</pubDate>
-      <guid>https://Namarimizu.github.io/posts/hello_world/</guid>
+      <guid>https://beiruri-tears.me/posts/hello_world/</guid>
       <description>來點音樂？ </description>
     </item>
   </channel>

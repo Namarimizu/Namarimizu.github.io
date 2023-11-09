@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 抱甕舘</title>
-    <link>https://Namarimizu.github.io/categories/</link>
+    <link>https://beiruri-tears.me/categories/</link>
     <description>Recent content in Categories on 抱甕舘</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
     <lastBuildDate>Wed, 08 Nov 2023 20:58:45 +0800</lastBuildDate>
-    <atom:link href="https://Namarimizu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beiruri-tears.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://Namarimizu.github.io/categories/test/</link>
+      <link>https://beiruri-tears.me/categories/test/</link>
       <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
-      <guid>https://Namarimizu.github.io/categories/test/</guid>
+      <guid>https://beiruri-tears.me/categories/test/</guid>
       <description></description>
     </item>
   </channel>
