@@ -5,7 +5,22 @@
     <title>Title</title>
 </head>
 <body>
+{{ define "main" }}
 
+<script type="text/javascript" src="https://unpkg.com/artitalk"></script>
+<div id="artitalk_main"></div>
+<script>
+    new Artitalk({
+        serverURL: 'api.beiruri-tears.me',
+        appId: "LrEKAfpLL6jMjzxNTazYvH8e-MdYXbMMI",
+        appKey: "nNZMS9OWXacIJO1Mi2Rk7qOR",
+        shuoPla: "想說些什麼呢？",
+        pageSize: 20,
+        atComment: 0,
+    });
+</script>
+
+{{ end }}
 
 </body>
 </html>
