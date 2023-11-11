@@ -125,7 +125,11 @@ Of time past and time future.&lt;br&gt;
 &lt;li&gt;大概是主題作者忘了？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;增加了「語叢」葉面，使用了 &lt;a href=&#34;https://artitalk.js.org/settings.html&#34;&gt;Artitalk&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;增加了「語叢」葉面，使用了 &lt;a href=&#34;https://artitalk.js.org/settings.html&#34;&gt;Artitalk&lt;/a&gt;。
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ArtitalkJS/Artitalk/issues/96&#34;&gt;受此啓發&lt;/a&gt;完善了暗黑模式。不過預覽區的文字好象是 &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; 的漏網之魚？所以仍然是黑色的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;231110&#34;&gt;231110&lt;/h3&gt;
 &lt;ul&gt;
