@@ -21,7 +21,7 @@
       <link>https://beiruri-tears.me/posts/site_update_log/</link>
       <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
       <guid>https://beiruri-tears.me/posts/site_update_log/</guid>
-      <description>To do list 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……） 用上本地字體。 修復夜間模式下 quote block 背景顏色仍是藍色的問題。 試插入全局音樂播放器。</description>
+      <description>To do list 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……） 用上本地字體。 完善「語叢」的 css。 試插入全局音樂播放器。 試引入 reimu 主題的友鏈模</description>
     </item>
     <item>
       <title>Markdown 用法</title>
