@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beiruri-tears.me/posts/</loc>
-    <lastmod>2023-12-10T19:58:02+08:00</lastmod>
+    <loc>https://beiruri-tears.me/categories/</loc>
+    <lastmod>2023-12-12T00:54:18+08:00</lastmod>
   </url><url>
-    <loc>https://beiruri-tears.me/posts/river_of_brakelights_lrc/</loc>
-    <lastmod>2023-12-10T19:58:02+08:00</lastmod>
+    <loc>https://beiruri-tears.me/posts/johan_von_bronx_lrc/</loc>
+    <lastmod>2023-12-12T00:54:18+08:00</lastmod>
+  </url><url>
+    <loc>https://beiruri-tears.me/posts/</loc>
+    <lastmod>2023-12-12T00:54:18+08:00</lastmod>
   </url><url>
     <loc>https://beiruri-tears.me/</loc>
-    <lastmod>2023-12-10T19:58:02+08:00</lastmod>
+    <lastmod>2023-12-12T00:54:18+08:00</lastmod>
+  </url><url>
+    <loc>https://beiruri-tears.me/categories/%E7%BF%BB%E8%AD%AF/</loc>
+    <lastmod>2023-12-12T00:54:18+08:00</lastmod>
+  </url><url>
+    <loc>https://beiruri-tears.me/posts/river_of_brakelights_lrc/</loc>
+    <lastmod>2023-12-12T00:54:18+08:00</lastmod>
   </url><url>
     <loc>https://beiruri-tears.me/posts/font_test/</loc>
     <lastmod>2023-11-10T08:03:41+08:00</lastmod>
   </url><url>
     <loc>https://beiruri-tears.me/posts/site_update_log/</loc>
     <lastmod>2023-11-11T13:08:19+08:00</lastmod>
-  </url><url>
-    <loc>https://beiruri-tears.me/categories/</loc>
-    <lastmod>2023-11-09T22:32:35+08:00</lastmod>
   </url><url>
     <loc>https://beiruri-tears.me/tags/markdown/</loc>
     <lastmod>2023-11-09T22:32:35+08:00</lastmod>
