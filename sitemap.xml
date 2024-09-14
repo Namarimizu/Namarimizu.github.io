@@ -2,26 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beiruri-tears.me/categories/</loc>
-    <lastmod>2024-09-13T13:45:14+08:00</lastmod>
-  </url><url>
-    <loc>https://beiruri-tears.me/posts/</loc>
-    <lastmod>2024-09-13T13:45:14+08:00</lastmod>
-  </url><url>
-    <loc>https://beiruri-tears.me/</loc>
-    <lastmod>2024-09-13T13:45:14+08:00</lastmod>
-  </url><url>
-    <loc>https://beiruri-tears.me/categories/%E7%84%A1/</loc>
-    <lastmod>2024-09-13T13:45:14+08:00</lastmod>
-  </url><url>
-    <loc>https://beiruri-tears.me/posts/johan_von_bronx_lrc/</loc>
-    <lastmod>2024-09-13T13:45:14+08:00</lastmod>
-  </url><url>
     <loc>https://beiruri-tears.me/posts/font_test/</loc>
     <lastmod>2023-11-10T08:03:41+08:00</lastmod>
   </url><url>
+    <loc>https://beiruri-tears.me/posts/</loc>
+    <lastmod>2023-11-11T13:08:19+08:00</lastmod>
+  </url><url>
+    <loc>https://beiruri-tears.me/</loc>
+    <lastmod>2023-11-11T13:08:19+08:00</lastmod>
+  </url><url>
     <loc>https://beiruri-tears.me/posts/site_update_log/</loc>
     <lastmod>2023-11-11T13:08:19+08:00</lastmod>
+  </url><url>
+    <loc>https://beiruri-tears.me/categories/</loc>
+    <lastmod>2023-11-09T22:32:35+08:00</lastmod>
   </url><url>
     <loc>https://beiruri-tears.me/tags/markdown/</loc>
     <lastmod>2023-11-09T22:32:35+08:00</lastmod>
