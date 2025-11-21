@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 抱甕舘</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://blog.m7atk2700.top/posts/</link>
     <description>Recent content in Posts on 抱甕舘</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
     <lastBuildDate>Sat, 11 Nov 2023 13:08:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.m7atk2700.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Font Test Page</title>
-      <link>http://localhost:1313/posts/font_test/</link>
+      <link>https://blog.m7atk2700.top/posts/font_test/</link>
       <pubDate>Thu, 09 Nov 2023 22:49:40 +0800</pubDate>
-      <guid>http://localhost:1313/posts/font_test/</guid>
+      <guid>https://blog.m7atk2700.top/posts/font_test/</guid>
       <description>&lt;h4 id=&#34;莊子外篇駢拇&#34;&gt;莊子·外篇·駢拇&lt;/h4&gt;&#xA;&lt;br/&gt;&#xA;&lt;p&gt;　　駢拇枝指，出乎性哉！而侈於德。附贅縣疣，出乎形哉！而侈於性。多方乎仁義而用之者，列於五藏哉！而非道德之正也。是故駢於足者，連無用之肉也；枝於手者，樹無用之指也；多方駢枝於五藏之情者，淫僻於仁義之行，而多方於聰明之用也。是故駢於明者，亂五色，淫文章，青黃黼黻之煌煌非乎？而離朱是已。多於聰者，亂五聲，淫六律，金石、絲竹，黃鐘、大呂之聲非乎？而師曠是已。枝於仁者，擢德塞性以收名聲，使天下簧鼓以奉不及之法非乎？而曾、史是已。駢於辯者，纍瓦結繩竄句，遊心於堅白同異之間，而敝跬譽無用之言非乎？而楊、墨是已。故此皆多駢旁枝之道，非天下之至正也。彼正正者，不失其性命之情。故合者不爲駢，而枝者不爲跂；長者不爲有餘，短者不爲不足。是故鳧脛雖短，續之則憂；鶴脛雖長，斷之則悲。故性長非所斷，性短非所續，無所去憂也。意仁義其非人情乎！彼仁人何其多憂也？且夫駢於拇者，決之則泣；枝於手者，齕之則啼。二者或有餘於數，或不足於數，其於憂一也。今世之仁人，蒿目而憂世之患；不仁之人，決性命之情而饕富貴。故意仁義其非人情乎！自三代以下者，天下何其囂囂也？&lt;/p&gt;</description>
     </item>
     <item>
       <title>網站更新日誌</title>
-      <link>http://localhost:1313/posts/site_update_log/</link>
+      <link>https://blog.m7atk2700.top/posts/site_update_log/</link>
       <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
-      <guid>http://localhost:1313/posts/site_update_log/</guid>
+      <guid>https://blog.m7atk2700.top/posts/site_update_log/</guid>
       <description>&lt;h3 id=&#34;to-do-list&#34;&gt;To do list&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……）&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用上本地字體。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 完善「語叢」的 css。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 試插入全局音樂播放器。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 試引入 reimu 主題的友鏈模塊。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown 用法</title>
-      <link>http://localhost:1313/posts/markdown/</link>
+      <link>https://blog.m7atk2700.top/posts/markdown/</link>
       <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/markdown/</guid>
+      <guid>https://blog.m7atk2700.top/posts/markdown/</guid>
       <description>&lt;h2 id=&#34;標題和標籤&#34;&gt;標題和標籤&lt;/h2&gt;&#xA;&lt;p&gt;#的數量代表標題的級別，共6級。也可以在文本下一行加入任意數量的 ==（一級標題） 或 -- （二級標題）。&#xA;標題在#後加上空格 ，否則會變成標籤。&#xA;標籤內使用斜槓 &lt;code&gt;/&lt;/code&gt; 可實現標籤嵌套。&#xA;#大標籤/二標籤&#xA;#大標籤/二標籤2&lt;/p&gt;&#xA;&lt;h2 id=&#34;強調&#34;&gt;強調&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;: 前後加兩個星號或下劃線。&#xA;&lt;em&gt;Italic&lt;/em&gt;: 前後加一個星號或下劃線。&#xA;&lt;em&gt;&lt;strong&gt;Bold &amp;amp; Italic&lt;/strong&gt;&lt;/em&gt;: 前後加三個星號或下劃線。&#xA;==Highlight==: 前後加兩個等號。&lt;/p&gt;&#xA;&lt;h2 id=&#34;引用&#34;&gt;引用&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;段落前添加 &amp;gt; 符號，多個段落引用時於段落間空白也添加 &amp;gt; 。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;塊引用可嵌套，添加 &amp;raquo; ，也可以部分地支持 Markdown。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;列表&#34;&gt;列表&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;有序列表用數字 1+英文句點起始，但之後可以不按數學順序排列。&lt;/li&gt;&#xA;&lt;li&gt;Shift + Enter 可以，&#xA;另起一行但不進入下個列表。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;無序列表可以前置 - , * , + 表示。&#xA;&lt;ol&gt;&#xA;&lt;li&gt;縮進一個或多個列表可創建嵌套列表。&lt;/li&gt;&#xA;&lt;li&gt;在保留列表連續性的情況下插入另一種元素，將其縮進四個空格或一個製表符。 ^56c0d0&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;代碼塊通常縮進 4 空格或 1 製表符，放入列表時，請縮進兩倍。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;有時 Shift + Tab 無法解決問題，可以用 Ctrl + 「[」 或 「]」 。&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;代碼&#34;&gt;代碼&lt;/h2&gt;&#xA;&lt;p&gt;包裹在反引號「`」中。若其中已包含反引號，則代碼包裹在雙反引號中&lt;strong&gt;轉義&lt;/strong&gt;。使用三個反引號（或縮進，但好像不行）來表示代碼塊，還可以在其後添加語言標識符（加在首個三重引號之後）。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World!</title>
-      <link>http://localhost:1313/posts/hello_world/</link>
+      <link>https://blog.m7atk2700.top/posts/hello_world/</link>
       <pubDate>Wed, 08 Nov 2023 20:18:17 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello_world/</guid>
+      <guid>https://blog.m7atk2700.top/posts/hello_world/</guid>
       <description>&lt;h2 id=&#34;來點音樂&#34;&gt;來點音樂？&lt;/h2&gt;&#xA;&lt;p&gt;&lt;meting-js server=&#34;netease&#34; theme=&#34;#8aa2d3&#34; type=&#34;playlist&#34; id=&#34;8849930112&#34; order=&#34;random&#34; mutex=true list-folded=true&gt; &lt;/meting-js&gt;&lt;/p&gt;</description>
     </item>
   </channel>

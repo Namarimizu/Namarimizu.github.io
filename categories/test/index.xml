@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on 抱甕舘</title>
-    <link>http://localhost:1313/categories/test/</link>
+    <link>https://blog.m7atk2700.top/categories/test/</link>
     <description>Recent content in Test on 抱甕舘</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
     <lastBuildDate>Thu, 09 Nov 2023 22:32:35 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.m7atk2700.top/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown 用法</title>
-      <link>http://localhost:1313/posts/markdown/</link>
+      <link>https://blog.m7atk2700.top/posts/markdown/</link>
       <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/markdown/</guid>
+      <guid>https://blog.m7atk2700.top/posts/markdown/</guid>
       <description>&lt;h2 id=&#34;標題和標籤&#34;&gt;標題和標籤&lt;/h2&gt;&#xA;&lt;p&gt;#的數量代表標題的級別，共6級。也可以在文本下一行加入任意數量的 ==（一級標題） 或 -- （二級標題）。&#xA;標題在#後加上空格 ，否則會變成標籤。&#xA;標籤內使用斜槓 &lt;code&gt;/&lt;/code&gt; 可實現標籤嵌套。&#xA;#大標籤/二標籤&#xA;#大標籤/二標籤2&lt;/p&gt;&#xA;&lt;h2 id=&#34;強調&#34;&gt;強調&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;: 前後加兩個星號或下劃線。&#xA;&lt;em&gt;Italic&lt;/em&gt;: 前後加一個星號或下劃線。&#xA;&lt;em&gt;&lt;strong&gt;Bold &amp;amp; Italic&lt;/strong&gt;&lt;/em&gt;: 前後加三個星號或下劃線。&#xA;==Highlight==: 前後加兩個等號。&lt;/p&gt;&#xA;&lt;h2 id=&#34;引用&#34;&gt;引用&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;段落前添加 &amp;gt; 符號，多個段落引用時於段落間空白也添加 &amp;gt; 。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;塊引用可嵌套，添加 &amp;raquo; ，也可以部分地支持 Markdown。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;列表&#34;&gt;列表&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;有序列表用數字 1+英文句點起始，但之後可以不按數學順序排列。&lt;/li&gt;&#xA;&lt;li&gt;Shift + Enter 可以，&#xA;另起一行但不進入下個列表。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;無序列表可以前置 - , * , + 表示。&#xA;&lt;ol&gt;&#xA;&lt;li&gt;縮進一個或多個列表可創建嵌套列表。&lt;/li&gt;&#xA;&lt;li&gt;在保留列表連續性的情況下插入另一種元素，將其縮進四個空格或一個製表符。 ^56c0d0&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;代碼塊通常縮進 4 空格或 1 製表符，放入列表時，請縮進兩倍。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;有時 Shift + Tab 無法解決問題，可以用 Ctrl + 「[」 或 「]」 。&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;代碼&#34;&gt;代碼&lt;/h2&gt;&#xA;&lt;p&gt;包裹在反引號「`」中。若其中已包含反引號，則代碼包裹在雙反引號中&lt;strong&gt;轉義&lt;/strong&gt;。使用三個反引號（或縮進，但好像不行）來表示代碼塊，還可以在其後添加語言標識符（加在首個三重引號之後）。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>抱甕舘</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.m7atk2700.top/</link>
     <description>Recent content on 抱甕舘</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>鉛水 2023</copyright>
     <lastBuildDate>Thu, 09 Nov 2023 22:49:40 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.m7atk2700.top/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>Font Test Page</title>
-        <link>http://localhost:1313/posts/font_test/</link>
+        <link>https://blog.m7atk2700.top/posts/font_test/</link>
         <pubDate>Thu, 09 Nov 2023 22:49:40 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/font_test/</guid>
-        <description>抱甕舘 http://localhost:1313/posts/font_test/ -&lt;h4 id=&#34;莊子外篇駢拇&#34;&gt;莊子·外篇·駢拇&lt;/h4&gt;
+        <guid>https://blog.m7atk2700.top/posts/font_test/</guid>
+        <description>抱甕舘 https://blog.m7atk2700.top/posts/font_test/ -&lt;h4 id=&#34;莊子外篇駢拇&#34;&gt;莊子·外篇·駢拇&lt;/h4&gt;
 &lt;br/&gt;
 &lt;p&gt;　　駢拇枝指，出乎性哉！而侈於德。附贅縣疣，出乎形哉！而侈於性。多方乎仁義而用之者，列於五藏哉！而非道德之正也。是故駢於足者，連無用之肉也；枝於手者，樹無用之指也；多方駢枝於五藏之情者，淫僻於仁義之行，而多方於聰明之用也。是故駢於明者，亂五色，淫文章，青黃黼黻之煌煌非乎？而離朱是已。多於聰者，亂五聲，淫六律，金石、絲竹，黃鐘、大呂之聲非乎？而師曠是已。枝於仁者，擢德塞性以收名聲，使天下簧鼓以奉不及之法非乎？而曾、史是已。駢於辯者，纍瓦結繩竄句，遊心於堅白同異之間，而敝跬譽無用之言非乎？而楊、墨是已。故此皆多駢旁枝之道，非天下之至正也。彼正正者，不失其性命之情。故合者不爲駢，而枝者不爲跂；長者不爲有餘，短者不爲不足。是故鳧脛雖短，續之則憂；鶴脛雖長，斷之則悲。故性長非所斷，性短非所續，無所去憂也。意仁義其非人情乎！彼仁人何其多憂也？且夫駢於拇者，決之則泣；枝於手者，齕之則啼。二者或有餘於數，或不足於數，其於憂一也。今世之仁人，蒿目而憂世之患；不仁之人，決性命之情而饕富貴。故意仁義其非人情乎！自三代以下者，天下何其囂囂也？&lt;/p&gt;
 &lt;p&gt;　　且夫待鉤繩規矩而正者，是削其性；待繩約膠漆而固者，是侵其德也；屈折禮樂，呴俞仁義，以慰天下之心者，此失其常然也。天下有常然。常然者，曲者不以鉤，直者不以繩，圓者不以規，方者不以矩，附離不以膠漆，約束不以纆索。故天下誘然皆生，而不知其所以生；同焉皆得，而不知其所以得。故古今不二，不可虧也。則仁義又奚連連如膠漆纆索，而遊乎道德之間爲哉？使天下惑也！夫小惑易方，大惑易性。何以知其然邪？自虞氏招仁義以撓天下也，天下莫不奔命於仁義，是非以仁義易其性與？&lt;/p&gt;
@@ -70,18 +70,18 @@ Of time past and time future.&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;英文採用 Gill Sans MT，中文採用霞鶩文楷（基於 Klee One）。&lt;/li&gt;
 &lt;/ul&gt;
-- http://localhost:1313/posts/font_test/ - 鉛水 2023</description>
+- https://blog.m7atk2700.top/posts/font_test/ - 鉛水 2023</description>
         </item>
     
     
     
         <item>
         <title>網站更新日誌</title>
-        <link>http://localhost:1313/posts/site_update_log/</link>
+        <link>https://blog.m7atk2700.top/posts/site_update_log/</link>
         <pubDate>Thu, 09 Nov 2023 03:13:52 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/site_update_log/</guid>
-        <description>抱甕舘 http://localhost:1313/posts/site_update_log/ -&lt;h3 id=&#34;to-do-list&#34;&gt;To do list&lt;/h3&gt;
+        <guid>https://blog.m7atk2700.top/posts/site_update_log/</guid>
+        <description>抱甕舘 https://blog.m7atk2700.top/posts/site_update_log/ -&lt;h3 id=&#34;to-do-list&#34;&gt;To do list&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 用 Hugo 搭建網站。 （這條是 Github Copilot🤖 自動補充的……）&lt;/p&gt;
@@ -180,18 +180,18 @@ Of time past and time future.&lt;br&gt;
 &lt;/li&gt;
 &lt;li&gt;網站在 Github Pages 上綫。&lt;/li&gt;
 &lt;/ul&gt;
-- http://localhost:1313/posts/site_update_log/ - 鉛水 2023</description>
+- https://blog.m7atk2700.top/posts/site_update_log/ - 鉛水 2023</description>
         </item>
     
     
     
         <item>
         <title>Markdown 用法</title>
-        <link>http://localhost:1313/posts/markdown/</link>
+        <link>https://blog.m7atk2700.top/posts/markdown/</link>
         <pubDate>Wed, 08 Nov 2023 20:58:45 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/markdown/</guid>
-        <description>抱甕舘 http://localhost:1313/posts/markdown/ -&lt;h2 id=&#34;標題和標籤&#34;&gt;標題和標籤&lt;/h2&gt;
+        <guid>https://blog.m7atk2700.top/posts/markdown/</guid>
+        <description>抱甕舘 https://blog.m7atk2700.top/posts/markdown/ -&lt;h2 id=&#34;標題和標籤&#34;&gt;標題和標籤&lt;/h2&gt;
 &lt;p&gt;#的數量代表標題的級別，共6級。也可以在文本下一行加入任意數量的 ==（一級標題） 或 -- （二級標題）。
 標題在#後加上空格 ，否則會變成標籤。
 標籤內使用斜槓 &lt;code&gt;/&lt;/code&gt; 可實現標籤嵌套。
@@ -336,20 +336,20 @@ Of time past and time future.&lt;br&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-- http://localhost:1313/posts/markdown/ - 鉛水 2023</description>
+- https://blog.m7atk2700.top/posts/markdown/ - 鉛水 2023</description>
         </item>
     
     
     
         <item>
         <title>Hello World!</title>
-        <link>http://localhost:1313/posts/hello_world/</link>
+        <link>https://blog.m7atk2700.top/posts/hello_world/</link>
         <pubDate>Wed, 08 Nov 2023 20:18:17 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/hello_world/</guid>
-        <description>抱甕舘 http://localhost:1313/posts/hello_world/ -&lt;h2 id=&#34;來點音樂&#34;&gt;來點音樂？&lt;/h2&gt;
+        <guid>https://blog.m7atk2700.top/posts/hello_world/</guid>
+        <description>抱甕舘 https://blog.m7atk2700.top/posts/hello_world/ -&lt;h2 id=&#34;來點音樂&#34;&gt;來點音樂？&lt;/h2&gt;
 &lt;p&gt;&lt;meting-js server=&#34;netease&#34; theme=&#34;#8aa2d3&#34; type=&#34;playlist&#34; id=&#34;8849930112&#34; order=&#34;random&#34; mutex=true list-folded=true&gt; &lt;/meting-js&gt;&lt;/p&gt;
-- http://localhost:1313/posts/hello_world/ - 鉛水 2023</description>
+- https://blog.m7atk2700.top/posts/hello_world/ - 鉛水 2023</description>
         </item>
     
     
